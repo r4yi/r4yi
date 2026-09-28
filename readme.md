@@ -1,5 +1,5 @@
 <h2> Hi, I'm Rayi!</h2>
-<img align='right' src="https://cdn3.emoji.gg/emojis/8457-laptop-peepo-smile.gif" width="230">
+<img align='right' src="https://cdn3.emoji.gg/emojis/4653-yuihirasawa-flushtered.gif" width="230">
 <p>Technology Information student at <a href="https://jakarta.telkomuniversity.ac.id/">Telkom University Jakarta</a>
 </em></p>
 
