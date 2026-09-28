@@ -1,5 +1,5 @@
 <h2> Hi, I'm Rayi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://cdn3.emoji.gg/emojis/7636-159-meguminpinch.gif" width="230">
 <p>Ing. student at <a href="https://jakarta.telkomuniversity.ac.id/">Telkom University Jakarta</a><img src="https://cdn3.emoji.gg/emojis/7636-159-meguminpinch.gif" width="30"> 
 </em></p>
 
